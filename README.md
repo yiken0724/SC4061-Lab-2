@@ -1,4 +1,4 @@
-# SC4061 Computer Vision — Lab 2: Image Segmentation & 3D Stereo Vision in MATLAB
+# Image Segmentation & 3D Stereo Vision in MATLAB
 
 > SC4061 Computer Vision, Nanyang Technological University
 > Choo Yi Ken | U2240710B | College of Computing and Data Science (CCDS)
